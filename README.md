@@ -1,29 +1,17 @@
-## Usage
+## ThinkinAboutYou
 
-```bash
-$ npm install # or pnpm install or yarn install
-```
+## Inspiration
 
-### Learn more on the [Solid Website](https://solidjs.com) and come chat with us on our [Discord](https://discord.com/invite/solidjs)
+[Make Everything Okay](https://www.instagram.com/p/Cn0oVePN5HL/)
 
-## Available Scripts
+## Purpose
 
-In the project directory, you can run:
+이번 프로젝트는 들어오는 사람들에게 행복을 주기 위해서 만들었습니다.
 
-### `npm run dev`
+## Process
 
-Runs the app in the development mode.<br>
-Open [http://localhost:5173](http://localhost:5173) to view it in the browser.
+Team: Albertruaz, Dugongtae
 
-### `npm run build`
+Developing Env: Solid.js
 
-Builds the app for production to the `dist` folder.<br>
-It correctly bundles Solid in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
-
-## Deployment
-
-Learn more about deploying your application with the [documentations](https://vite.dev/guide/static-deploy.html)
-# ThinkinAboutYou
+## TODO
